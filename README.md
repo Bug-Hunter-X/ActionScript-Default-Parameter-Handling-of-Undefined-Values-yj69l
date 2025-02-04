@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in ActionScript related to default parameter values.  When an undefined value is passed to a parameter with a default value, ActionScript throws an error instead of using the default. This behavior differs from many other programming languages. The bug.as file shows the problematic code, while bugSolution.as provides a solution.
